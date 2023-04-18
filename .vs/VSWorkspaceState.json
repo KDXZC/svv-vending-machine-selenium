@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\th",
+    "\\src\\test\\java\\th\\ac",
+    "\\src\\test\\java\\th\\ac\\kmitl",
+    "\\src\\test\\java\\th\\ac\\kmitl\\se",
+    "\\src\\test\\resources"
   ],
-  "SelectedNode": "\\C:\\KMITL\\Year 4 Sem 2\\SVV\\Assignment 6 Selenium\\Github",
+  "SelectedNode": "\\src\\test\\java\\th\\ac\\kmitl\\se\\VendingMachineAdapter.java",
   "PreviewInSolutionExplorer": false
 }
